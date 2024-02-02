@@ -16,12 +16,13 @@
     - [abcd_cipher](/abcd_cipher.py)
     - [is_english_word.py](/is_english_word.py)
 - ChatGPT
+- JB's code review in Class 19
 
 ## Setup
 
 ### How to initialize/run your application
-
-- `python3 cipher.py`
+- `pip install -r requirements.txt`
+- run `python3 cipher.py`
 
 ### Tests
 
@@ -31,3 +32,4 @@
 
 - Wed am: set up project in morning during lecture
 - Wed pm: added code, tests passing - note in comments on crack function
+- Thurs: added requirements.txt file and corpus loader and fixed crack function during class code review
